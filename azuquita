@@ -1,0 +1,7 @@
+Write-Host "Before calling Function."
+
+function testFunction {
+    Write-Host "Function has been called"
+}
+
+testFunction
